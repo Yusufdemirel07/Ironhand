@@ -706,3 +706,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.17-11.32.39:717][  1]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2023.02.17-11.33.34:744][266]Cmd: SELECT NONE
 [2023.02.17-11.34.13:009][226]LogDerivedDataCache: C:/Users/Yusuf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.740 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.17-12.34.09:919][365]LogDerivedDataCache: C:/Users/Yusuf/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.660 and deleted 0 file(s) with total size 0 MiB.
